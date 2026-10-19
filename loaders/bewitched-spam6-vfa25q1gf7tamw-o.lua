@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/bewitched-spam6-vfa25q1gf7tamw.lua"))()

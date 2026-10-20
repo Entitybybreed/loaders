@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/catch-the-artist-spam0-wat5u5pdh0pr8t.lua"))()

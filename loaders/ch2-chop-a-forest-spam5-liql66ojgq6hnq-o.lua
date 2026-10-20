@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/ch2-chop-a-forest-spam5-liql66ojgq6hnq.lua"))()

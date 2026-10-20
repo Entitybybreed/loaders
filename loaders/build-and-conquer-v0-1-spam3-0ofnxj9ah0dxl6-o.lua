@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/build-and-conquer-v0-1-spam3-0ofnxj9ah0dxl6.lua"))()

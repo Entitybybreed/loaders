@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/rivals-spam0-lo0zmmgwk5fpjk.lua"))()

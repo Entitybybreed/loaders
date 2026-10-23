@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/fish-an-anime-rng-spam4-rqi3yp9qkx7uag.lua"))()

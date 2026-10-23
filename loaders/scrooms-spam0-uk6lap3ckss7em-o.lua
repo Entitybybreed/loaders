@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/scrooms-spam0-uk6lap3ckss7em.lua"))()

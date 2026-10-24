@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/huss-valley-spam7-0ik92tpim7c6tw.lua"))()

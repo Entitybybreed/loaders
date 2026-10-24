@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/2x-criminality-spam2-obhol0celq01yg.lua"))()

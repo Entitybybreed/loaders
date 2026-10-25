@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/entry-point-freelancer-s-cut-spam7-pbbrwvgqoe4r3j.lua"))()

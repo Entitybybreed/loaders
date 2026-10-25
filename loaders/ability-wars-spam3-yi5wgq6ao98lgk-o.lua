@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/ability-wars-spam3-yi5wgq6ao98lgk.lua"))()

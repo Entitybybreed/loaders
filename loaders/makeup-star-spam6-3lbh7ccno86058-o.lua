@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/makeup-star-spam6-3lbh7ccno86058.lua"))()

